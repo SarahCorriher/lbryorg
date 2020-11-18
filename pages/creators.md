@@ -13,13 +13,12 @@ permalink : /creators/
 ---
 
 
-## The Creators Council is formed by 9 people so far and they are:
+## The Creators Council is formed by 8 people so far and they are:
 
 - @Letsfly | @Racecationtv
 - @vlad
 - @TheGamingDragon
 - @Marusame
-- @Sarah | lbry://@SarahCorriher 
 - @TechDunk
 - @Kamots
 - @lbry://@AlexandreMarcotte777
